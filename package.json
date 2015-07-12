@@ -1,0 +1,23 @@
+{
+  "name": "atom-author-intrusion",
+  "main": "./dist/plugin",
+  "version": "0.0.0",
+  "description": "Provides Atom services for Author Intrusion projects.",
+  "repository": "https://github.com/author-intrusion/atom-author-intrusion",
+  "author": "Dylan R. E. Moonfire",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.199.0 <2.0.0",
+    "node": "*"
+  },
+  "providedServices": {
+    "linter": {
+      "versions": {
+        "1.0.0": "provideLinter"
+      }
+    }
+  },
+  "dependencies": {
+    "node-author-intrusion-service": "^0.0.0"
+  }
+}

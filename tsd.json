@@ -1,0 +1,42 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "atom/atom.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "q/Q.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "space-pen/space-pen.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "emissary/emissary.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "mixto/mixto.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "pathwatcher/pathwatcher.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "node/node.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "text-buffer/text-buffer.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "status-bar/status-bar.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "a9c59f8166b4d7f1e8c4309a506987c2e6d78b5e"
+    }
+  }
+}
